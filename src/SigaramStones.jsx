@@ -308,7 +308,7 @@ export default function SigaramStones() {
           ["Company",  "Sigaram Stones"],
           ["Location", "Kallimandayam, Dindigul"],
           ["State",    "Tamil Nadu, India"],
-          ["Phone",    "Add Your Number"],
+          ["Phone / WhatsApp", "+91 97382 75175"],
         ].map(([label, value]) => (
           <div key={label}>
             <div
@@ -552,7 +552,7 @@ export default function SigaramStones() {
           {[
             ["Address", "Kallimandayam, Dindigul District"],
             ["State",   "Tamil Nadu, India"],
-            ["Phone",   "Add Your Number"],
+            ["Phone / WhatsApp", "+91 97382 75175"],
             ["Email",   "Add Your Email"],
           ].map(([label, value]) => (
             <div key={label}>
