@@ -109,6 +109,15 @@ const granites = [
     accent: "#8b4060",
     img: "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&auto=format&fit=crop&q=80",
   },
+  {
+    name: "Asian Top",
+    origin: "Karimnagar, Telangana, India",
+    desc: "Deep uniform maroon-red with a fine-grained texture and mirror polish. A bold, striking choice for flooring, cladding, and memorial work.",
+    tag: "New Arrival",
+    color: "#3d1010",
+    accent: "#c9a84c",
+    img: "https://images.unsplash.com/photo-1550505095-81378a674395?w=600&auto=format&fit=crop&q=80",
+  },
 ];
 
 const tagColors = {
@@ -124,6 +133,7 @@ const tagColors = {
   "Trending":      "#7ab8a0",
   "Rare Find":     "#7aab7a",
   "Decorative":    "#c97a9a",
+  "New Arrival":   "#c94040",
 };
 
 export default function SigaramStones() {
