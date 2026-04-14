@@ -116,7 +116,7 @@ const granites = [
     tag: "New Arrival",
     color: "#3d1010",
     accent: "#c9a84c",
-    img: "https://images.unsplash.com/photo-1550505095-81378a674395?w=600&auto=format&fit=crop&q=80",
+    img: "/Sigaramstones/images/IMG-20260414-WA0011.jpg",
   },
 ];
 
