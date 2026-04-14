@@ -195,7 +195,7 @@ export default function SigaramStones() {
 
       {/* INFO BAR */}
       <div style={{ background: "#1e1a14", borderTop: "1px solid rgba(201,168,76,0.25)", borderBottom: "1px solid rgba(201,168,76,0.25)", padding: "22px 40px", display: "flex", justifyContent: "center", gap: 56, flexWrap: "wrap", textAlign: "center" }}>
-        {[["Company", "Sigaram Stones"],["Location", "Kallimandayam, Dindigul"],["State", "Tamil Nadu, India"],["Phone", "Add Your Number"]].map(([label, value]) => (
+        {[["Company", "Sigaram Stones"],["Location", "Kallimandayam, Dindigul"],["State", "Tamil Nadu, India"],["Phone / WhatsApp", "+91 97382 75175"]].map(([label, value]) => (
           <div key={label}>
             <div style={{ fontFamily: "'Jost',sans-serif", fontSize: "0.62rem", letterSpacing: "0.35em", textTransform: "uppercase", color: "#c9a84c", marginBottom: 4 }}>{label}</div>
             <div style={{ fontFamily: "'Jost',sans-serif", fontSize: "0.88rem", color: "#f0ece4" }}>{value}</div>
@@ -258,7 +258,7 @@ export default function SigaramStones() {
         <div style={{ fontFamily: "'Playfair Display',serif", fontSize: "2rem", fontWeight: 700, color: "#f0ece4", marginBottom: 6 }}>Sigaram Stones</div>
         <div style={{ fontFamily: "'Jost',sans-serif", fontSize: "0.68rem", letterSpacing: "0.4em", textTransform: "uppercase", color: "#c9a84c", marginBottom: 32 }}>Natural Stone \u00b7 Expert Craftsmanship \u00b7 Lifetime Beauty</div>
         <div style={{ display: "flex", justifyContent: "center", gap: 52, flexWrap: "wrap", marginBottom: 30 }}>
-          {[["Address", "Kallimandayam, Dindigul District"],["State", "Tamil Nadu, India"],["Phone", "Add Your Number"],["Email", "Add Your Email"]].map(([label, value]) => (
+          {[["Address", "Kallimandayam, Dindigul District"],["State", "Tamil Nadu, India"],["Phone / WhatsApp", "+91 97382 75175"],["Email", "Add Your Email"]].map(([label, value]) => (
             <div key={label}>
               <div style={{ fontFamily: "'Jost',sans-serif", fontSize: "0.62rem", letterSpacing: "0.32em", textTransform: "uppercase", color: "#c9a84c", marginBottom: 4 }}>{label}</div>
               <div style={{ fontFamily: "'Jost',sans-serif", fontSize: "0.88rem", color: "#c8c4bc" }}>{value}</div>
